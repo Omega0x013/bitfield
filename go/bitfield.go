@@ -22,7 +22,8 @@ func (x *BitField) Set(i int, v bool) {
 		*x |= 1 << i
 	} else {
 		// Clear
-		*x &= -(1 << i)
+		// max XOR bit makes a bitmask, because go doesn't have ~
+		*x &= 0xFFFFFFFF ^ (1 << i)
 	}
 }
 

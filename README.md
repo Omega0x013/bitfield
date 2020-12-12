@@ -8,3 +8,6 @@ These languages are the languages I current aim to support. If you have an imple
 
 - [x] C#
 - [x] Go
+- [ ] Rust
+- [ ] Java
+- [x] D

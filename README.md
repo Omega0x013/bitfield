@@ -4,8 +4,7 @@ Comprehensive Bit Field library - I'm trying to assemble a set of libraries rela
 
 ## Current Languages
 
-These languages are the languages I current aim to support. If you have an implementation you can make a branch & pull request and I'll test it
+These languages are the languages I current aim to support. If you have an implementation you can make a branch & pull request and I'll test then pull it.
 
 - [x] C#
-- [ ] Java
-- [ ] Go
+- [x] Go

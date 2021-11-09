@@ -1,5 +1,7 @@
 # bitfield
 
+**Archive**: This code is dedicated to the public domain, you are free to use or extend it however you see fit.
+
 Comprehensive Bit Field library - I'm trying to assemble a set of libraries related to basic bit field functions in as many languages as possible.
 
 ## Current Languages
